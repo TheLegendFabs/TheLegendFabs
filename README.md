@@ -14,27 +14,28 @@
 
 <br />
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-<p>Olá! Sou o <b>Fabricio</b>, profissional de Tecnologia da Informação focado em infraestrutura de redes e, principalmente, desenvolvimento BackEnd.</p>
+<p>Hello! I'm <b>Fabricio</b>, an IT professional focused on network infrastructure and Backend development.</p>
 
-- 🏢 **Atuação Atual:** Suporte a infraestrutura corporativa e servidores no **Instituto Alfa Medicina Integrada**.
-- 🎓 **Formação:** Estudante no **Instituto Federal da Bahia (IFBA)**.
-- 💻 **Foco Técnico:** Desenvolvimento Backend com **Java** e **C**, automação de rotinas e segurança de redes.
-- 🎯 **Objetivo:** Criar soluções eficientes integrando infraestrutura sólida e código otimizado.
+- 🏢 **Currently Working:** Providing corporate infrastructure and server support at **Instituto Alfa Medicina Integrada**.
+- 🎓 **Education:** Student at **Instituto Federal da Bahia (IFBA)**.
+- 💻 **Tech Focus:** Backend development with **Java** and **C**, routine automation, and network security.
+- 🎯 **Goal:** Building efficient solutions by integrating solid infrastructure with optimized code.
 
 <br />
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack & Tools
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens & Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
-| **Infra & Redes** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Networks](https://img.shields.io/badge/Redes%20%26%20Servidores-00599C?style=for-the-badge&logo=databricks&logoColor=white) |
-| **Automação & IDEs** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Languages & Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Infrastructure & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| **Automation & CLI** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
+| **Tools & IDEs** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 <div align="center">
-  <sub><i>Projetado por Fabricio Cardoso</i></sub>
+  <sub><i>Designed by Fabricio Cardoso</i></sub>
 </div>
