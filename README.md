@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Fabricio Cardoso
+# Fabricio Cardoso
 
 ### `IT Technician` • `Infrastructure & Networks` • `Backend Developer`
 
