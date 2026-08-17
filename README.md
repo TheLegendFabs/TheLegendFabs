@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-<p>Olá! Sou o <b>Fabricio</b>, profissional de Tecnologia da Informação focado em infraestrutura de redes, gestão de servidores e desenvolvimento Backend.</p>
+<p>Olá! Sou o <b>Fabricio</b>, profissional de Tecnologia da Informação focado em infraestrutura de redes e, principalmente, desenvolvimento BackEnd.</p>
 
 - 🏢 **Atuação Atual:** Suporte a infraestrutura corporativa e servidores no **Instituto Alfa Medicina Integrada**.
 - 🎓 **Formação:** Estudante no **Instituto Federal da Bahia (IFBA)**.
