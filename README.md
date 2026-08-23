@@ -20,7 +20,7 @@
 
 - 🏢 **Currently Working:** Providing corporate infrastructure and server support at **Instituto Alfa Medicina Integrada**.
 - 🎓 **Education:** Student at **Instituto Federal da Bahia (IFBA)**.
-- 💻 **Tech Focus:** Backend development with **Java** and **C**, routine automation, and network security.
+- 💻 **Tech Focus:** Backend development with **Java** and **C**, routine automation, and network infrastructure.
 - 🎯 **Goal:** Building efficient solutions by integrating solid infrastructure with optimized code.
 
 <br />
